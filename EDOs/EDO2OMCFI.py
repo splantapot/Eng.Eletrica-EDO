@@ -9,7 +9,7 @@ from sympy import Symbol, Function
 
 # Definição dos símbolos na equação original
 t = Symbol('t')
-
+#Testando método
 funcoes = [
     # Primeiro fator
     sp.exp(-t),
